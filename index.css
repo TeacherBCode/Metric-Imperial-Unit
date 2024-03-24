@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    color: white;
+    min-width: 300px;
+}
+
+#unit-box{
+    background-color: #FF8744;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    padding:10px;
+    
+}
+
+h1{
+    font-size: 1.5rem;
+}
+
+#input-num{
+    box-sizing: border-box;
+    margin: 10px auto;
+    padding:  30px auto;
+    color: white;
+    font-size:2rem;
+    font-weight: bold;
+    width: 20%;
+    height:2rem;
+    border-radius: 5%;
+    background-color: #FF8744;
+    border: 1px solid #1F2987;
+    text-align: center;
+}
+
+#convert-btn{
+    border: none;
+    margin: 10px auto; 
+    padding: 10px;
+    width: 30%;
+    border-radius: 5%;
+    
+}
+
+#info-box{
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.info-container{
+    margin:10px 20px 10px;
+    background-color: #273549;
+}
+
+h5{
+    color: #FF8744;
+    font-size:1rem; 
+}

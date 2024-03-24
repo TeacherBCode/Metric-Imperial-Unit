@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Metric/Imperial Unit Conversion",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": {
+            "16":"favicon16.png",
+            "32":"favicon16.png"
+        }
+    }
+}
